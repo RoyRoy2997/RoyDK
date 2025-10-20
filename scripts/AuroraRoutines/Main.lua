@@ -1,4 +1,3 @@
-
 -- Main.lua
 return function(RoyDKNamespace)
     -- 初始化命名空间
@@ -10,7 +9,7 @@ return function(RoyDKNamespace)
     -- 基础配置
     RoyDKNamespace.Config.DebugMode = true
     RoyDKNamespace.Config.Version = "1.0.0"
-    RoyDKNamespace.Config.Class = "Specialisation"
+    RoyDKNamespace.Config.Class = "DEATHKNIGHT"
     RoyDKNamespace.Config.Spec = 251
     
     -- 工具函数
